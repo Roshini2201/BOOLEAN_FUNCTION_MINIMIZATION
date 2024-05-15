@@ -32,8 +32,11 @@ Hardware – PCs, Cyclone II , USB flasher
 
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
-5.	For different input combinations generate the timing diagram.
+5.	For different input combinations generate the timing diagram
 
+   
+### Developed by: ROSHINI S  
+### RegisterNumber:212223240142*
 
 **Program:**
 
