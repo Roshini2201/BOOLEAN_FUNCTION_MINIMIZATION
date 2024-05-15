@@ -1,8 +1,7 @@
-**EX.NO:2**
+## EX.NO:2
+## DATE:
 
 # BOOLEAN_FUNCTION_MINIMIZATION
-
-**DATE:**
 
 **AIM:**
 
@@ -34,16 +33,10 @@ Hardware – PCs, Cyclone II , USB flasher
 
 5.	For different input combinations generate the timing diagram
 
-   
-### Developed by: ROSHINI S  
-### RegisterNumber:212223240142*
-
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
-
-Developed by: ROSHINI S  
-RegisterNumber:212223240142*/
+### Developed by: ROSHINI S  
+### RegisterNumber:212223240142
 
 ```
 module BMf1f2(a,b,c,d,w,x,y,z,f1,f2);
